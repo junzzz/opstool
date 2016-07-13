@@ -1,0 +1,3 @@
+package: bitbucket.org/junzzz/syuzo_bot
+import:
+- package: github.com/jasonmoo/lambda_proc

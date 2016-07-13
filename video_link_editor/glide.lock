@@ -1,0 +1,28 @@
+hash: 3579e798820fdf1395728da63b1dd615b0c9de8fcae03abe6599e550f98b8d23
+updated: 2016-03-15T15:11:52.633080587+09:00
+imports:
+- name: github.com/andybalholm/cascadia
+  version: 3ad29d1ad1c4f2023e355603324348cf1f4b2d48
+- name: github.com/mgutz/ansi
+  version: c286dcecd19ff979eeb73ea444e479b903f2cfcb
+- name: github.com/PuerkitoBio/goquery
+  version: 4126223a86db8598275b29db04d511cfdab67cf1
+- name: golang.org/x/net
+  version: 35b06af0720201bc2f326773a80767387544f8c4
+  subpackages:
+  - html
+  - html/atom
+- name: golang.org/x/text
+  version: a71fd10341b064c10f4a81ceac72bcf70f26ea34
+  subpackages:
+  - encoding/japanese
+  - transform
+  - encoding
+  - encoding/internal
+  - encoding/internal/identifier
+- name: gopkg.in/amz.v1
+  version: ad23e96a31d28364dc0290f44b1a922aba379e18
+  subpackages:
+  - aws
+  - s3
+devImports: []

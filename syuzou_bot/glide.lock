@@ -1,0 +1,6 @@
+hash: b2b9477794d8f1909af7a6c22569ded4c22d29eb4026488beacc1271688f0d2d
+updated: 2016-03-17T10:23:40.27293679+09:00
+imports:
+- name: github.com/jasonmoo/lambda_proc
+  version: 49abf10b4b3c7cb01992397ec47880e05d65ad85
+devImports: []

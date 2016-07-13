@@ -1,0 +1,13 @@
+package: github.com/classi/classi_opstool/video_link_editor
+import:
+- package: golang.org/x/text
+  subpackages:
+  - encoding/japanese
+  - transform
+- package: github.com/PuerkitoBio/goquery
+- package: github.com/mgutz/ansi
+- package: gopkg.in/amz.v1
+  subpackages:
+  - aws
+  - s3
+- package: github.com/andybalholm/cascadia

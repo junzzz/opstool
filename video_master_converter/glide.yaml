@@ -1,0 +1,7 @@
+package: github.com/classi/classi_opstool/video_master_converter
+import:
+- package: github.com/go-sql-driver/mysql
+- package: golang.org/x/text
+  subpackages:
+  - encoding/japanese
+  - transform

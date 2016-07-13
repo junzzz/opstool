@@ -1,0 +1,14 @@
+hash: 8497b18cd98e1ee356198404d564d2f13b8ee798e0bde1ff56e5012cf30a305f
+updated: 2016-03-16T16:22:21.083871983+09:00
+imports:
+- name: github.com/go-sql-driver/mysql
+  version: 66312f7fe2678aa0f5ec770f96702f4c4ec5aa8e
+- name: golang.org/x/text
+  version: c20b6f20120f3c96689c10ffa47eee07776b9fe1
+  subpackages:
+  - encoding/japanese
+  - transform
+  - encoding
+  - encoding/internal
+  - encoding/internal/identifier
+devImports: []
